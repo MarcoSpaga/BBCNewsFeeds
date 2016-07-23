@@ -1,0 +1,8 @@
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\bin\Debug\BBCNewsFeeds.exe.config
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\bin\Debug\BBCNewsFeeds.exe
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\bin\Debug\BBCNewsFeeds.pdb
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\obj\Debug\BBCNewsFeeds.exe
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\obj\Debug\BBCNewsFeeds.pdb
+C:\Users\mspagnoletti\Documents\Visual Studio 2012\Projects\BBCNewsFeeds\BBCNewsFeeds\obj\Debug\BBCNewsFeeds.csprojResolveAssemblyReference.cache
